@@ -1,34 +1,25 @@
-<h1 align="center">Riya Tulswani</h1>
-
-<p align="center">
+<div align="center">
+  <h1>Riya Tulswani</h1>
   <em>Computer Science Graduate | Nagpur, India</em>
-</p>
-
-<p align="center">
-  <a href="mailto:riya0001tulswani@gmail.com">Email</a> | 
-  <a href="https://www.linkedin.com/in/riya-tulswani-96507724a">LinkedIn</a> | 
+  <br>
+  <a href="mailto:riya0001tulswani@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/riya-tulswani-96507724a">LinkedIn</a> |
   <a href="tel:+917350818075">Phone</a>
-</p>
-
----
+</div>
 
 ## Education
-
 - **Bachelor of Technology in Computer Science**
 - G.H. Raisoni College Of Engineering, Nagpur, India
 - *CGPA: 8.68*
 - Relevant Coursework: Software Engineering, Operating Systems, Computer Networks, Artificial Intelligence, System Design
 
 ## Skills
-
 - **Programming Languages:** Java, Kotlin, C++, JavaScript, HTML, CSS, Python, React
 - **Technical Skills:** Web Development, Object-Oriented Programming, Mobile Development, NoSQL, AWS, Linux
 - **Soft Skills:** Collaboration, Effective Communication, Motivation, Workflow Management
 
 ## Work Experience
-
 ### The Sparks Foundation - Internship (12/2022 - 12/2023)
-
 - *Android Development:*
   - Developed a robust Android banking app.
   - Contributed to various features, including recording transactions and money transfers.
@@ -36,13 +27,11 @@
   - Utilized inbuilt databases for efficient data handling.
 
 ### JP Morgan Chase & Co - Software Engineering (Virtual Internship) (Dec 2022)
-
 - *Stock Price Data Feed:*
   - Collaborated on interface development.
   - Utilized JPMC Framework and Tools for real-time data visualization.
 
 ## Projects
-
 - **AI Image Generation App (MongoDB, Express.js, React.js, Node.js):**
   - Full Stack MERN AI image generation app using DALL-E API.
   - Fast content creation with reliability.
@@ -56,17 +45,8 @@
 - **OpenInApp Clone (Kotlin, MVVM, Backend: Go lang, MySQL):**
   - Android app using MVVM architecture, Retrofit, and live data population.
 
----
-
 ## Accomplishments
-
 - Amazon Web Services: Cloud Practitioner (12/2022 - 01/2023)
   - Fundamentals of AWS services, cloud concepts, and hands-on experience with various services.
 
-- LeetCode - [Riya_Tulswani](https://leetcode.com/Riya_Tulswani) (350+ Questions)
-
-## Additional
-
-- **Programming Languages:** Java, Kotlin, C++, JavaScript, HTML, CSS, Python, React
-- **Technical Skills:** Web Development, Object-Oriented Programming, Mobile Development, NoSQL, AWS, HTTP, Linux
-- **Soft Skills:** Collaboration, Effective Communication, Motivation, Workflow Management
+- Le
