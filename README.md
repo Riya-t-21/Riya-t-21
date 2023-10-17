@@ -54,7 +54,7 @@
 - Amazon Web Services: Cloud Practitioner (12/2022 - 01/2023)
   - Fundamentals of AWS services, cloud concepts, and hands-on experience with various services.
 
-- LeetCode - [Riya_Tulswani](https://leetcode.com/Riya_Tulswani) (350+ Questions)
+- LeetCode - [Riya_Tulswani](https://leetcode.com/Riya_Tulswani) (400+ Questions)
 
 ## Additional
 
