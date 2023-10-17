@@ -1,59 +1,72 @@
-Riya Tulswani
-Nagpur (Willing to Relocate)| Mob: +91 7350818075 | riya0001tulswani@gmail.com
-Github: Riya-t-21| Leetcode: Riya_Tulswani|LinkedIn: riya-tulswani-96507724a
+<h1 align="center">Riya Tulswani</h1>
 
-EDUCATION
+<p align="center">
+  <em>Computer Science Graduate | Nagpur, India</em>
+</p>
 
+<p align="center">
+  <a href="mailto:riya0001tulswani@gmail.com">Email</a> | 
+  <a href="https://www.linkedin.com/in/riya-tulswani-96507724a">LinkedIn</a> | 
+  <a href="tel:+917350818075">Phone</a>
+</p>
 
-G.H. Raisoni College Of Engineering, Nagpur	CGPA - 8.68
-Bachelor of Technology	June 2024
- Relevant Coursework: Software Engineering, Operating Systems, Computer Networks, Artificial Intelligence, System   Design.
-WORK EXPERIENCE	
+---
 
+## Education
 
-The Sparks Foundation - Internship                                                                                                          (12/2022 - 12/2023)	
-  Android Development	
-Developed an android App for this internship for banking 
-Developing products with multiple technologies with code review, coding practices and Independent research for Possible features making the production Systems Robust and reliable.
-Recording Transactions, Sending Money, Splash Screen, used inbuilt Database.
+- **Bachelor of Technology in Computer Science**
+- G.H. Raisoni College Of Engineering, Nagpur, India
+- *CGPA: 8.68*
+- Relevant Coursework: Software Engineering, Operating Systems, Computer Networks, Artificial Intelligence, System Design
 
-JP Morgan Chase & Co Software Engineering (Virtual Internship)                                                                       Dec 2022	
- Intern	
- Worked On 
-Interface With a Stock Price Data Feed.
-Used JPMC Framework And Tools for Visualization of the Data at Realtime. 
+## Skills
 
+- **Programming Languages:** Java, Kotlin, C++, JavaScript, HTML, CSS, Python, React
+- **Technical Skills:** Web Development, Object-Oriented Programming, Mobile Development, NoSQL, AWS, Linux
+- **Soft Skills:** Collaboration, Effective Communication, Motivation, Workflow Management
 
- PROJECTS	
+## Work Experience
 
+### The Sparks Foundation - Internship (12/2022 - 12/2023)
 
-AI Image Generation App (MongoDB, Express.js, React.js, Node.js)                                                                   Github
-Developed  a Full Stack MERN AI Image Generation App Using  DALL-E  API.
-Used React and Tailwind CSS to Design the Frontend of the App and NodeJS, Express and Ajax for Backend.
-The App Provides Faster Content Creation and Being Reliable at the Same Time.
-Twitter clone (Ruby On Rails 5, Javascript, HTML5, Tailwind. )                                                                           Github
- Developed an Twitter Clone with Ruby 5 with proper Frontend And Features like creating new posts, personal Feed and User Profile Page.,
- Used devise gem and omniauth  for Facebook login Integration.                                                                                                          
-Ecommerce Web App (Java, Spring, Vue.js, MongoDb)                                                                                          Github                                                                                                                                     
-Designed an  E Commerce Shopping Cart with Admin Panel where Admin can Create Multiple Categories, Manage Inventory, Users.
-Implemented Features Like Payment Integration, Automatic Emails, User Authentication, Password Recovery.                           
-OpenInApp Clone (Kotlin, MVVM, Backend :- Go lang, My SQL )                                                                       Github                                                                                            
-Using Kotlin Created an Android Application using MVVM Architecture, Retrofit, LiveData, Data Binding, etc.
-Designed the UI from a Figma Design and Populated the Whole Design with Live Data from Apis.
-Fetched Data from the API using Retrofit Which was created with Go lang and Mysql.           	
-                                                                 
-ACCOMPLISHMENTS
+- *Android Development:*
+  - Developed a robust Android banking app.
+  - Contributed to various features, including recording transactions and money transfers.
+  - Implemented code review and coding best practices.
+  - Utilized inbuilt databases for efficient data handling.
 
+### JP Morgan Chase & Co - Software Engineering (Virtual Internship) (Dec 2022)
 
-Amazon Web Services : Cloud Quest: Cloud Practitioner	(12/2022 - 01/2023)
-Solution Building Knowledge Using AWS Services Fundamental Understanding of Cloud Concepts Hands-on Experience with Compute, Networking, Database and Security Services.
-Problem Solving
-Leetcode - Riya_Tulswani  Solved 350+ Questions
+- *Stock Price Data Feed:*
+  - Collaborated on interface development.
+  - Utilized JPMC Framework and Tools for real-time data visualization.
 
-     
-ADDITIONAL	
+## Projects
 
+- **AI Image Generation App (MongoDB, Express.js, React.js, Node.js):**
+  - Full Stack MERN AI image generation app using DALL-E API.
+  - Fast content creation with reliability.
 
-Programming Languages: Java, Kotlin, C++, JavaScript, HTML, CSS, Python, React. 
-Technical Skills:Web Development,Object Oriented Programming, Android\ Product \ Mobile Development, NoSql, AWS, HTTP, Linux.
-Soft Skills: Collaborative and Effective Communicator, Highly Motivated, Managing Multiple workflows.
+- **Twitter Clone (Ruby On Rails, JavaScript, HTML5, Tailwind CSS):**
+  - Ruby on Rails-based Twitter clone with user profiles and Facebook login integration.
+
+- **Ecommerce Web App (Java, Spring, Vue.js, MongoDB):**
+  - E-commerce shopping cart with payment integration and admin panel.
+
+- **OpenInApp Clone (Kotlin, MVVM, Backend: Go lang, MySQL):**
+  - Android app using MVVM architecture, Retrofit, and live data population.
+
+---
+
+## Accomplishments
+
+- Amazon Web Services: Cloud Practitioner (12/2022 - 01/2023)
+  - Fundamentals of AWS services, cloud concepts, and hands-on experience with various services.
+
+- LeetCode - [Riya_Tulswani](https://leetcode.com/Riya_Tulswani) (350+ Questions)
+
+## Additional
+
+- **Programming Languages:** Java, Kotlin, C++, JavaScript, HTML, CSS, Python, React
+- **Technical Skills:** Web Development, Object-Oriented Programming, Mobile Development, NoSQL, AWS, HTTP, Linux
+- **Soft Skills:** Collaboration, Effective Communication, Motivation, Workflow Management
