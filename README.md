@@ -4,7 +4,6 @@
   
 - Email: [riya0001tulswani@gmail.com](mailto:riya0001tulswani@gmail.com)
 - LinkedIn: [linkedin.com/in/riya-tulswani-96507724a](https://www.linkedin.com/in/riya-tulswani-96507724a)
-- Phone: [+91 7350818075](tel:+917350818075)
 
 ## Education
 
