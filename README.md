@@ -1,63 +1,21 @@
-# Riya Tulswani
+<h1 align="center">Hi 👋, I'm Riya Tulswani</h1>
+<h3 align="center">Software developer</h3>
 
-*Computer Science Graduate | Nagpur, India*
-  
-- Email: [riya0001tulswani@gmail.com](mailto:riya0001tulswani@gmail.com)
-- LinkedIn: [linkedin.com/in/riya-tulswani-96507724a](https://www.linkedin.com/in/riya-tulswani-96507724a)
+- 💬 Ask me about **Android Development,Java,Kotlin,React**
 
-## Education
+- 📫 How to reach me **riya0001tulswani@gmail.com**
 
-- **Bachelor of Technology in Computer Science**
-- G.H. Raisoni College Of Engineering, Nagpur, India
-- *CGPA: 8.68*
-- Relevant Coursework: Software Engineering, Operating Systems, Computer Networks, Artificial Intelligence, System Design
+- 📄 Know about my experiences [https://docs.google.com/document/d/1EQQSLOExUl7a-1baQKel-Z_acxmJb1HLRyjKFRV9xBE/edit?usp=sharing](https://docs.google.com/document/d/1EQQSLOExUl7a-1baQKel-Z_acxmJb1HLRyjKFRV9xBE/edit?usp=sharing)
 
-## Skills
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/riya-tulswani-96507724a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riya-tulswani-96507724a/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/riya_tulswani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riya_tulswani" height="30" width="40" /></a>
+</p>
 
-- **Programming Languages:** Java, Kotlin, C++, JavaScript, HTML, CSS, Python, React
-- **Technical Skills:** Web Development, Object-Oriented Programming, Mobile Development, NoSQL, AWS, Linux
-- **Soft Skills:** Collaboration, Effective Communication, Motivation, Workflow Management
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## Work Experience
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riya-t-21&show_icons=true&locale=en" alt="riya-t-21" /></p>
 
-### The Sparks Foundation - Internship (12/2022 - 12/2023)
-
-- *Android Development:*
-  - Developed a robust Android banking app.
-  - Contributed to various features, including recording transactions and money transfers.
-  - Implemented code review and coding best practices.
-  - Utilized inbuilt databases for efficient data handling.
-
-### JP Morgan Chase & Co - Software Engineering (Virtual Internship) (Dec 2022)
-
-- *Stock Price Data Feed:*
-  - Collaborated on interface development.
-  - Utilized JPMC Framework and Tools for real-time data visualization.
-
-## Projects
-
-- **AI Image Generation App (MongoDB, Express.js, React.js, Node.js):**
-  - Full Stack MERN AI image generation app using DALL-E API.
-  - Fast content creation with reliability.
-
-- **Twitter Clone (Ruby On Rails, JavaScript, HTML5, Tailwind CSS):**
-  - Ruby on Rails-based Twitter clone with user profiles and Facebook login integration.
-
-- **Ecommerce Web App (Java, Spring, Vue.js, MongoDB):**
-  - E-commerce shopping cart with payment integration and admin panel.
-
-- **OpenInApp Clone (Kotlin, MVVM, Backend: Go lang, MySQL):**
-  - Android app using MVVM architecture, Retrofit, and live data population.
-
-## Accomplishments
-
-- Amazon Web Services: Cloud Practitioner (12/2022 - 01/2023)
-  - Fundamentals of AWS services, cloud concepts, and hands-on experience with various services.
-
-- LeetCode - [Riya_Tulswani](https://leetcode.com/Riya_Tulswani) (400+ Questions)
-
-## Additional
-
-- **Programming Languages:** Java, Kotlin, C++, JavaScript, HTML, CSS, Python, React
-- **Technical Skills:** Web Development, Object-Oriented Programming, Mobile Development, NoSQL, AWS, HTTP, Linux
-- **Soft Skills:** Collaboration, Effective Communication, Motivation, Workflow Management
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riya-t-21&" alt="riya-t-21" /></p>
